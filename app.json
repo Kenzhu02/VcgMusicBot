@@ -1,8 +1,8 @@
 {
-    "name": "Kannadiga Music Player",
+    "name": "Shinoni Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/MR-KANNADIGA/MUSIC-BOT",
-    "logo": "https://github.com/MR-KANNADIGA/MUSIC-BOT/raw/main/theme/logo.png",
+    "repository": "https://github.com/Kenzhu02/VcgMusicBot",
+    "logo": "https://telegra.ph/file/902232ce0081b1cf53e6e.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -25,7 +25,7 @@
         "required": true
       },
       "PYROGRAM_SESSION": {
-        "description": "Pyrogram session string, get it from @SESSIONGENERATOR_ROBOT",
+        "description": "Pyrogram session string, get it from @ZhuXStringbot",
         "required": true
       },
       "SUDO_USERS": {
