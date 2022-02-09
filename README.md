@@ -1,6 +1,6 @@
-# KANNADIGA MUSIC USERBOT 
+# SHINOBI MUSIC
 
-[![KANNADIGA MUSIC](https://te.legra.ph/file/10a5482207504a09bb448.jpg)](https://github.com/MR-KANNADIGA/MUSIC-BOT)
+[![SHINOBI MUSIC](https://telegra.ph/file/902232ce0081b1cf53e6e.jpg)](https://github.com/Kenzhu02/VcgMusicBot)
 
 
 ## 🚀 <a name="deploy"></a>Deploy
@@ -10,11 +10,11 @@
 
 -------------
 
-## [REPL](https://t.me/NAAN_1_KANNADIGA)
+## [REPL](https://t.me/triplenineee)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/MR-KANNADIGA/MUSIC-BOT
+$ git clone https://github.com/Kenzhu02/VcgMusicBot
 $ cd MUSIC-BOT
 $ cp sample.env .env
 < edit .env with your own values >
